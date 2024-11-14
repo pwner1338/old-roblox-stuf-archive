@@ -1,1 +1,1 @@
-this is just a warning: MODEL 235 HAS A SCRIPT CALLED: Spread. DELETE IT 
+this is just a warning: MODEL 235 HAS A SCRIPT CALLED: Spread. DELETE IT.
