@@ -114,7 +114,6 @@ TCR Spawns                                         98708363 [EXPUNGED]
 Scripts:
 
 Head Spin Script                                   14617775  8/16/2009
-Anti-Jump (Put in StarterPack)                    103400155 [EXPUNGED]
 
 Tools:
 
@@ -122,6 +121,7 @@ Building tools                                     12753572  7/ 7/2009
 Guns                                               20227835  1/ 3/2010
 muhahahza                                          37986851 10/31/2010
 Epic Sword                                         39822310 11/15/2010
+Anti-Jump (Put in StarterPack)                    103400155 [EXPUNGED]
 
 Decals:
 
