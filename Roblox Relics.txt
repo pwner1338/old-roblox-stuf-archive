@@ -23,6 +23,7 @@ The Wasteland. ((READ THE DESCRIPTION)) (Shops.)    17177735 10/21/2009
 The Mushroom Forest                                 17522821 10/31/2009
 TEMPAL OF THE SACRED FLAME                          19249431 12/14/2009
 Hoverboard fight arena: New Dusk                    19760281 12/25/2009
+office set                                          21467746  1/30/2010
 Arus51's --Mountain Adventure Building Contest-- c  22233794  2/13/2010
 Chocolate Tycoon!!                                  22245436  2/13/2010
 1                                                   22896261  2/25/2010
@@ -68,6 +69,7 @@ Mortal Kombat Fatality Garden                      169783522  8/ 2/2014
 
 Models:
 
+Wii, TV(with wii games), controls, and SATSR!         109944 [EXPUNGED]
 pyramid                                               320671 [EXPUNGED]
 Finished belt TheGod01's                              566865  3/29/2008
 hat changer 12000                                     574499 [EXPUNGED]
@@ -86,6 +88,7 @@ Ford Gt                                             16324274 [EXPUNGED]
 fence                                               18270690 11/20/2009
 Black Spawn                                         18875610 12/ 5/2009
 Old Bright Blue Brick                               21103687  1/23/2010
+Cow                                                 21943386  2/ 7/2010
 viwer with team door                                25801284  4/18/2010
 Sound playing floor                                 27252878  5/16/2010
 More Money Button                                   27896122  5/29/2010
@@ -94,6 +97,7 @@ Ultra cannon                                        29062962  6/17/2010
 Trash                                               29517959  6/25/2010
 Happy B-Day Hockey and Clarke                       30071267  7/ 4/2010
 brown couch                                         32807204  8/12/2010
+Ring Mesh                                           36936389 10/16/2010
 Building Tools                                      38619050 11/ 7/2010
 Pillar                                              40329259 11/18/2010
 Santa Claus                                         42058937 [EXPUNGED]
@@ -112,9 +116,15 @@ Free Cruise Ship                                    66555529 11/26/2011
 the cooler model of the world                       69085798  1/ 1/2012
 for bob                                             74684734  3/12/2012
 Model 235                                           82548339  6/ 3/2012
+Model 7                                             84822977  6/26/2012
 Skeleton                                            90049714  8/15/2012
 Model 51                                            96485787 10/30/2012
 TCR Spawns                                          98708363 [EXPUNGED]
+for jammer                                         105160239  1/29/2013
+
+SkyBoxes:
+
+cool illusions skybox                               31485322 [EXPUNGED]
 
 Scripts:
 
