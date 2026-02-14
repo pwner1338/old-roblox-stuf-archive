@@ -1,1 +1,1 @@
-the readme is "Roblox Relics.txt"
+the readme is "list.txt"
