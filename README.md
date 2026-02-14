@@ -1,2 +1,3 @@
 # the readme is "list.txt"
-this archive is for old games that are obscure to be documented
+this is a archive for old assets that are obscure to have some documentation of any kind
+and maybe even download it to put in this archive
